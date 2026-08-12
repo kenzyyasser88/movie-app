@@ -6,7 +6,7 @@ A React application built as part of the Frontend AI Engineering module. This pr
 
 ## Live Demo & Repository
 - **GitHub Repository:** [ https://github.com/kenzyyasser88/movie-app.git]
-- **Live Demo:** [movie-app-sigma-sooty.vercel.app]
+- **Live Demo:** [https://movie-app-sigma-sooty.vercel.app/]
 
 ---
 
