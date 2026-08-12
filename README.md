@@ -1,16 +1,24 @@
-# React + Vite
+# Movie App - React App with AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application built as part of the Frontend AI Engineering track assignment using AI tools.
 
-Currently, two official plugins are available:
+##  Live Demo
+[View Live Demo] movie-app-sigma-sooty.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Tools Used
+- React.js
+- AI Assistant (ChatGPT / gemini)
 
-## React Compiler
+##  How AI Helped
+- Generated the basic component structure and state management logic.
+- Provided styling suggestions and helper functions for API calls.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Manual Improvements & Refactoring
+- **Bug Fixes:** Corrected state update issues during API data fetching.
+- **UI/UX Refactoring:** Custom-styled components and improved responsive design after reviewing AI-generated layout.
+- **Clean Code:** Standardized component structure and cleaned up unused code/imports.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Prompts Used
+- "Create a React component for a movie search app using Fetch API..."
+- "Help me handle loading and error states for movie fetch operations..."
+-
